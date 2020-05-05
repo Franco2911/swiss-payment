@@ -26,7 +26,7 @@ class PaymentInformation
     protected $id;
 
     /**
-     * @var array
+     * @var CreditTransfer[]
      */
     protected $transactions;
 
